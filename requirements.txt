@@ -1,0 +1,15 @@
+asgiref==3.11.1
+certifi==2026.4.22
+charset-normalizer==3.4.7
+Django==6.0.5
+django-cors-headers==4.9.0
+django-stubs==6.0.4
+django-stubs-ext==6.0.4
+djangorestframework==3.17.1
+djangorestframework-stubs==3.16.9
+idna==3.14
+requests==2.34.0
+sqlparse==0.5.5
+types-PyYAML==6.0.12.20260510
+typing_extensions==4.15.0
+urllib3==2.7.0
